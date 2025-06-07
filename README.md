@@ -91,11 +91,11 @@ f(a, b) = a * 2 + b
 List the output of all possible pairs.
 
 ## 3) Questions
-1. Why is the **order** of elements in a tuple important in the Cartesian product?
-2. Can you think of real-world examples where data naturally forms **pairs**?
-3. What changes if you consider B × A instead of A × B?
-4. How would you describe a function of three inputs using Cartesian products?
-5. Take a look at task 3 once again: What kind of values do you get? Do these resemble anything familiar from binary numbers?
+1. Why is the **order** of elements in a tuple important in the Cartesian product? *The order of the elements is important, because otherwise would the function give wrong results. This is because we have a function that is dependent on two variables, if we would switch those two, we would also get other "wrong results".*
+2. Can you think of real-world examples where data naturally forms **pairs**? *Yes, for example If you have a plant that needs sun and water, you have two variables, those can be different (Sun is less in winter, you are in vacation and the plant gets no water...) The result "plant is healthy" is dependent of both of these factors.*
+3. What changes if you consider B × A instead of A × B? *You get two a new tuple that is totally different from the first one.*
+4.  How would you describe a function of three inputs using Cartesian products? *AXBXC = (0,1)x(1,0)x(1,1)= (0,1,1), (0,0,1), (1,1,1), (1,0,1)*
+5. Take a look at task 3 once again: What kind of values do you get? Do these resemble anything familiar from binary numbers? *Yes the result of task 3 is a function, that converts Binary Numbers into Decimal Numbers.*
 
 ---
 
